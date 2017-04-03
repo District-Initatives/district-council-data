@@ -1,0 +1,17 @@
+1st tag,2nd tag,description,link
+DC,2011,Areas,http://www.elections.gov.hk/dc2011/eng/summary.html
+DC,2011,Polling and counting stations,http://www.elections.gov.hk/dc2011/eng/p_cs.html
+DC,2011,Turnout rate,http://www.elections.gov.hk/dc2011/eng/turnout.html
+DC,2011,Candidate info,http://www.elections.gov.hk/dc2011/eng/intro_to_can.html
+DC,2011,Election result,http://www.elections.gov.hk/dc2011/eng/results.html
+DC,2015,Areas,http://www.elections.gov.hk/dc2015/eng/summary.html
+DC,2015,Polling and counting stations,http://www.elections.gov.hk/dc2015/eng/p_cs.html
+DC,2015,Turnout rate,http://www.elections.gov.hk/dc2015/eng/turnout.html?1487935171777
+DC,2015,Candidate info,http://www.elections.gov.hk/dc2015/eng/intro_to_can.html
+DC,2015,Election result,http://www.elections.gov.hk/dc2015/eng/results.html?1487935189171
+Excel,2015,./excel/counting-result-by-counting-station,http://www.elections.gov.hk/legco2016/chi/results.html?1491115719854
+Extern,Github,initiummedia/hk_district_council_election,https://github.com/initiummedia/hk_district_council_election
+Extern,Github,snorkeltom/HKelectiondata,https://github.com/snorkeltom/HKelectiondata
+Extern,Github,rmcv/dc2015,https://github.com/rmcv/dc2015
+Extern,Github,yellowcandle/HKDCElection,https://github.com/yellowcandle/HKDCElection
+Extern,Github,UnKnoWn-Consortium/DC2015_JSON,https://github.com/UnKnoWn-Consortium/DC2015_JSON

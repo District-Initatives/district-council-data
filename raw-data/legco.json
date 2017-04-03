@@ -1,0 +1,562 @@
+[
+  {
+    "LCtotalDemoVotes": 2073.0, 
+    "LCtotalVotes": 4832.0, 
+    "LCtotalGovVotes": 2216.0, 
+    "districtNum": "A01", 
+    "LCtotalUnclassVotes": 543.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2209.0, 
+    "LCtotalVotes": 4731.0, 
+    "LCtotalGovVotes": 1803.0, 
+    "districtNum": "A02", 
+    "LCtotalUnclassVotes": 719.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1885.0, 
+    "LCtotalVotes": 3834.0, 
+    "LCtotalGovVotes": 1453.0, 
+    "districtNum": "A03", 
+    "LCtotalUnclassVotes": 496.0
+  }, 
+  {
+    "LCtotalDemoVotes": 246.0, 
+    "LCtotalVotes": 694.0, 
+    "LCtotalGovVotes": 340.0, 
+    "districtNum": "A04", 
+    "LCtotalUnclassVotes": 108.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2383.0, 
+    "LCtotalVotes": 4926.0, 
+    "LCtotalGovVotes": 1850.0, 
+    "districtNum": "A05", 
+    "LCtotalUnclassVotes": 693.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2347.0, 
+    "LCtotalVotes": 4523.0, 
+    "LCtotalGovVotes": 1603.0, 
+    "districtNum": "A06", 
+    "LCtotalUnclassVotes": 573.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2493.0, 
+    "LCtotalVotes": 5558.0, 
+    "LCtotalGovVotes": 2413.0, 
+    "districtNum": "A07", 
+    "LCtotalUnclassVotes": 652.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2344.0, 
+    "LCtotalVotes": 4876.0, 
+    "LCtotalGovVotes": 2044.0, 
+    "districtNum": "A08", 
+    "LCtotalUnclassVotes": 488.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2960.0, 
+    "LCtotalVotes": 5858.0, 
+    "LCtotalGovVotes": 2244.0, 
+    "districtNum": "A09", 
+    "LCtotalUnclassVotes": 654.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2798.0, 
+    "LCtotalVotes": 5690.0, 
+    "LCtotalGovVotes": 2335.0, 
+    "districtNum": "A10", 
+    "LCtotalUnclassVotes": 557.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1771.0, 
+    "LCtotalVotes": 3887.0, 
+    "LCtotalGovVotes": 1760.0, 
+    "districtNum": "A11", 
+    "LCtotalUnclassVotes": 356.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1592.0, 
+    "LCtotalVotes": 3175.0, 
+    "LCtotalGovVotes": 1262.0, 
+    "districtNum": "A12", 
+    "LCtotalUnclassVotes": 321.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1998.0, 
+    "LCtotalVotes": 3863.0, 
+    "LCtotalGovVotes": 1462.0, 
+    "districtNum": "A13", 
+    "LCtotalUnclassVotes": 403.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2209.0, 
+    "LCtotalVotes": 4078.0, 
+    "LCtotalGovVotes": 1400.0, 
+    "districtNum": "A14", 
+    "LCtotalUnclassVotes": 469.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1657.0, 
+    "LCtotalVotes": 3249.0, 
+    "LCtotalGovVotes": 1180.0, 
+    "districtNum": "A15", 
+    "LCtotalUnclassVotes": 412.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1390.0, 
+    "LCtotalVotes": 2972.0, 
+    "LCtotalGovVotes": 1186.0, 
+    "districtNum": "B01", 
+    "LCtotalUnclassVotes": 396.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1355.0, 
+    "LCtotalVotes": 2778.0, 
+    "LCtotalGovVotes": 1087.0, 
+    "districtNum": "B02", 
+    "LCtotalUnclassVotes": 336.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1823.0, 
+    "LCtotalVotes": 3994.0, 
+    "LCtotalGovVotes": 1666.0, 
+    "districtNum": "B03", 
+    "LCtotalUnclassVotes": 505.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2306.0, 
+    "LCtotalVotes": 4792.0, 
+    "LCtotalGovVotes": 1902.0, 
+    "districtNum": "B04", 
+    "LCtotalUnclassVotes": 584.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1501.0, 
+    "LCtotalVotes": 3531.0, 
+    "LCtotalGovVotes": 1616.0, 
+    "districtNum": "B05", 
+    "LCtotalUnclassVotes": 414.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1204.0, 
+    "LCtotalVotes": 2519.0, 
+    "LCtotalGovVotes": 988.0, 
+    "districtNum": "B06", 
+    "LCtotalUnclassVotes": 327.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1809.0, 
+    "LCtotalVotes": 3554.0, 
+    "LCtotalGovVotes": 1296.0, 
+    "districtNum": "B07", 
+    "LCtotalUnclassVotes": 449.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1403.0, 
+    "LCtotalVotes": 3831.0, 
+    "LCtotalGovVotes": 1811.0, 
+    "districtNum": "B08", 
+    "LCtotalUnclassVotes": 617.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1519.0, 
+    "LCtotalVotes": 3711.0, 
+    "LCtotalGovVotes": 1645.0, 
+    "districtNum": "B09", 
+    "LCtotalUnclassVotes": 547.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1498.0, 
+    "LCtotalVotes": 3093.0, 
+    "LCtotalGovVotes": 1190.0, 
+    "districtNum": "B10", 
+    "LCtotalUnclassVotes": 405.0
+  }, 
+  {
+    "LCtotalDemoVotes": 641.0, 
+    "LCtotalVotes": 1736.0, 
+    "LCtotalGovVotes": 834.0, 
+    "districtNum": "B11", 
+    "LCtotalUnclassVotes": 261.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1308.0, 
+    "LCtotalVotes": 2782.0, 
+    "LCtotalGovVotes": 1089.0, 
+    "districtNum": "B12", 
+    "LCtotalUnclassVotes": 385.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1295.0, 
+    "LCtotalVotes": 2722.0, 
+    "LCtotalGovVotes": 1113.0, 
+    "districtNum": "B13", 
+    "LCtotalUnclassVotes": 314.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3031.0, 
+    "LCtotalVotes": 5496.0, 
+    "LCtotalGovVotes": 1776.0, 
+    "districtNum": "C01", 
+    "LCtotalUnclassVotes": 689.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3478.0, 
+    "LCtotalVotes": 6653.0, 
+    "LCtotalGovVotes": 2290.0, 
+    "districtNum": "C02", 
+    "LCtotalUnclassVotes": 885.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2352.0, 
+    "LCtotalVotes": 4676.0, 
+    "LCtotalGovVotes": 1605.0, 
+    "districtNum": "C03", 
+    "LCtotalUnclassVotes": 719.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3036.0, 
+    "LCtotalVotes": 6529.0, 
+    "LCtotalGovVotes": 2735.0, 
+    "districtNum": "C04", 
+    "LCtotalUnclassVotes": 758.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1839.0, 
+    "LCtotalVotes": 3506.0, 
+    "LCtotalGovVotes": 1298.0, 
+    "districtNum": "C05", 
+    "LCtotalUnclassVotes": 369.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3189.0, 
+    "LCtotalVotes": 6817.0, 
+    "LCtotalGovVotes": 2829.0, 
+    "districtNum": "C06", 
+    "LCtotalUnclassVotes": 799.0
+  }, 
+  {
+    "LCtotalDemoVotes": 4017.0, 
+    "LCtotalVotes": 8135.0, 
+    "LCtotalGovVotes": 2845.0, 
+    "districtNum": "C07", 
+    "LCtotalUnclassVotes": 1273.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1819.0, 
+    "LCtotalVotes": 4648.0, 
+    "LCtotalGovVotes": 2355.0, 
+    "districtNum": "C08", 
+    "LCtotalUnclassVotes": 474.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2920.0, 
+    "LCtotalVotes": 6099.0, 
+    "LCtotalGovVotes": 2255.0, 
+    "districtNum": "C09", 
+    "LCtotalUnclassVotes": 924.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2652.0, 
+    "LCtotalVotes": 5757.0, 
+    "LCtotalGovVotes": 2413.0, 
+    "districtNum": "C10", 
+    "LCtotalUnclassVotes": 692.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3367.0, 
+    "LCtotalVotes": 6996.0, 
+    "LCtotalGovVotes": 2665.0, 
+    "districtNum": "C11", 
+    "LCtotalUnclassVotes": 964.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2174.0, 
+    "LCtotalVotes": 4486.0, 
+    "LCtotalGovVotes": 1848.0, 
+    "districtNum": "C12", 
+    "LCtotalUnclassVotes": 464.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2197.0, 
+    "LCtotalVotes": 4658.0, 
+    "LCtotalGovVotes": 2005.0, 
+    "districtNum": "C13", 
+    "LCtotalUnclassVotes": 456.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2600.0, 
+    "LCtotalVotes": 5987.0, 
+    "LCtotalGovVotes": 2636.0, 
+    "districtNum": "C14", 
+    "LCtotalUnclassVotes": 751.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1924.0, 
+    "LCtotalVotes": 4694.0, 
+    "LCtotalGovVotes": 2000.0, 
+    "districtNum": "C15", 
+    "LCtotalUnclassVotes": 770.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2031.0, 
+    "LCtotalVotes": 4199.0, 
+    "LCtotalGovVotes": 1493.0, 
+    "districtNum": "C16", 
+    "LCtotalUnclassVotes": 675.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1132.0, 
+    "LCtotalVotes": 2558.0, 
+    "LCtotalGovVotes": 1115.0, 
+    "districtNum": "C17", 
+    "LCtotalUnclassVotes": 311.0
+  }, 
+  {
+    "LCtotalDemoVotes": 5439.0, 
+    "LCtotalVotes": 13759.0, 
+    "LCtotalGovVotes": 6749.0, 
+    "districtNum": "C18", 
+    "LCtotalUnclassVotes": 1571.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1477.0, 
+    "LCtotalVotes": 3171.0, 
+    "LCtotalGovVotes": 1324.0, 
+    "districtNum": "C19", 
+    "LCtotalUnclassVotes": 370.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1076.0, 
+    "LCtotalVotes": 2252.0, 
+    "LCtotalGovVotes": 881.0, 
+    "districtNum": "C20", 
+    "LCtotalUnclassVotes": 295.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2977.0, 
+    "LCtotalVotes": 6044.0, 
+    "LCtotalGovVotes": 2379.0, 
+    "districtNum": "C21", 
+    "LCtotalUnclassVotes": 688.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1403.0, 
+    "LCtotalVotes": 2962.0, 
+    "LCtotalGovVotes": 1226.0, 
+    "districtNum": "C22", 
+    "LCtotalUnclassVotes": 333.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1782.0, 
+    "LCtotalVotes": 3734.0, 
+    "LCtotalGovVotes": 1504.0, 
+    "districtNum": "C23", 
+    "LCtotalUnclassVotes": 448.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3085.0, 
+    "LCtotalVotes": 5893.0, 
+    "LCtotalGovVotes": 2044.0, 
+    "districtNum": "C24", 
+    "LCtotalUnclassVotes": 764.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2088.0, 
+    "LCtotalVotes": 4148.0, 
+    "LCtotalGovVotes": 1459.0, 
+    "districtNum": "C25", 
+    "LCtotalUnclassVotes": 601.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3544.0, 
+    "LCtotalVotes": 6831.0, 
+    "LCtotalGovVotes": 2363.0, 
+    "districtNum": "C26", 
+    "LCtotalUnclassVotes": 924.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3600.0, 
+    "LCtotalVotes": 7365.0, 
+    "LCtotalGovVotes": 3002.0, 
+    "districtNum": "C27", 
+    "LCtotalUnclassVotes": 763.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3705.0, 
+    "LCtotalVotes": 7135.0, 
+    "LCtotalGovVotes": 2683.0, 
+    "districtNum": "C28", 
+    "LCtotalUnclassVotes": 747.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3312.0, 
+    "LCtotalVotes": 6595.0, 
+    "LCtotalGovVotes": 2675.0, 
+    "districtNum": "C29", 
+    "LCtotalUnclassVotes": 608.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1498.0, 
+    "LCtotalVotes": 3247.0, 
+    "LCtotalGovVotes": 1522.0, 
+    "districtNum": "C30", 
+    "LCtotalUnclassVotes": 227.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2392.0, 
+    "LCtotalVotes": 5318.0, 
+    "LCtotalGovVotes": 2468.0, 
+    "districtNum": "C31", 
+    "LCtotalUnclassVotes": 458.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2095.0, 
+    "LCtotalVotes": 4183.0, 
+    "LCtotalGovVotes": 1530.0, 
+    "districtNum": "C32", 
+    "LCtotalUnclassVotes": 558.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1356.0, 
+    "LCtotalVotes": 2763.0, 
+    "LCtotalGovVotes": 1006.0, 
+    "districtNum": "C33", 
+    "LCtotalUnclassVotes": 401.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3664.0, 
+    "LCtotalVotes": 7453.0, 
+    "LCtotalGovVotes": 3061.0, 
+    "districtNum": "C34", 
+    "LCtotalUnclassVotes": 728.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1606.0, 
+    "LCtotalVotes": 3427.0, 
+    "LCtotalGovVotes": 1420.0, 
+    "districtNum": "C35", 
+    "LCtotalUnclassVotes": 401.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3402.0, 
+    "LCtotalVotes": 6480.0, 
+    "LCtotalGovVotes": 2298.0, 
+    "districtNum": "D01", 
+    "LCtotalUnclassVotes": 780.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1914.0, 
+    "LCtotalVotes": 4170.0, 
+    "LCtotalGovVotes": 1908.0, 
+    "districtNum": "D02", 
+    "LCtotalUnclassVotes": 348.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2000.0, 
+    "LCtotalVotes": 3769.0, 
+    "LCtotalGovVotes": 1277.0, 
+    "districtNum": "D03", 
+    "LCtotalUnclassVotes": 492.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3148.0, 
+    "LCtotalVotes": 5548.0, 
+    "LCtotalGovVotes": 1842.0, 
+    "districtNum": "D04", 
+    "LCtotalUnclassVotes": 558.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2432.0, 
+    "LCtotalVotes": 4513.0, 
+    "LCtotalGovVotes": 1700.0, 
+    "districtNum": "D05", 
+    "LCtotalUnclassVotes": 381.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2883.0, 
+    "LCtotalVotes": 5775.0, 
+    "LCtotalGovVotes": 2103.0, 
+    "districtNum": "D06", 
+    "LCtotalUnclassVotes": 789.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3167.0, 
+    "LCtotalVotes": 6492.0, 
+    "LCtotalGovVotes": 2460.0, 
+    "districtNum": "D07", 
+    "LCtotalUnclassVotes": 865.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3028.0, 
+    "LCtotalVotes": 5915.0, 
+    "LCtotalGovVotes": 2268.0, 
+    "districtNum": "D08", 
+    "LCtotalUnclassVotes": 619.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1814.0, 
+    "LCtotalVotes": 3756.0, 
+    "LCtotalGovVotes": 1651.0, 
+    "districtNum": "D09", 
+    "LCtotalUnclassVotes": 291.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2201.0, 
+    "LCtotalVotes": 4228.0, 
+    "LCtotalGovVotes": 1658.0, 
+    "districtNum": "D10", 
+    "LCtotalUnclassVotes": 369.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1761.0, 
+    "LCtotalVotes": 3735.0, 
+    "LCtotalGovVotes": 1463.0, 
+    "districtNum": "D11", 
+    "LCtotalUnclassVotes": 511.0
+  }, 
+  {
+    "LCtotalDemoVotes": 3352.0, 
+    "LCtotalVotes": 6290.0, 
+    "LCtotalGovVotes": 2083.0, 
+    "districtNum": "D12", 
+    "LCtotalUnclassVotes": 855.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2395.0, 
+    "LCtotalVotes": 4585.0, 
+    "LCtotalGovVotes": 1777.0, 
+    "districtNum": "D13", 
+    "LCtotalUnclassVotes": 413.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2545.0, 
+    "LCtotalVotes": 5499.0, 
+    "LCtotalGovVotes": 2440.0, 
+    "districtNum": "D14", 
+    "LCtotalUnclassVotes": 514.0
+  }, 
+  {
+    "LCtotalDemoVotes": 2726.0, 
+    "LCtotalVotes": 5452.0, 
+    "LCtotalGovVotes": 2117.0, 
+    "districtNum": "D15", 
+    "LCtotalUnclassVotes": 609.0
+  }, 
+  {
+    "LCtotalDemoVotes": 695.0, 
+    "LCtotalVotes": 2125.0, 
+    "LCtotalGovVotes": 1126.0, 
+    "districtNum": "D16", 
+    "LCtotalUnclassVotes": 304.0
+  }, 
+  {
+    "LCtotalDemoVotes": 1795.0, 
+    "LCtotalVotes": 4241.0, 
+    "LCtotalGovVotes": 1988.0, 
+    "districtNum": "D17", 
+    "LCtotalUnclassVotes": 458.0
+  }
+]
